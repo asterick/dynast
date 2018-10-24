@@ -1,0 +1,24 @@
+{
+  "name": "dynast",
+  "version": "1.0.0",
+  "description": "WebAssembly manipulation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asterick/dynast.git"
+  },
+  "keywords": [
+    "webassembly",
+    "javascript",
+    "reflection"
+  ],
+  "author": "Bryon Vandiver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asterick/dynast/issues"
+  },
+  "homepage": "https://github.com/asterick/dynast#readme"
+}
